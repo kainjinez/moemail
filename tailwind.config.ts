@@ -70,7 +70,17 @@ const config = {
           '"Microsoft YaHei"',
           'sans-serif',
         ],
-        zpix: ['var(--font-zpix)'],
+        zpix: [
+          'ui-sans-serif',
+          'system-ui',
+          '-apple-system',
+          'BlinkMacSystemFont',
+          '"Segoe UI"',
+          '"Noto Sans"',
+          '"PingFang SC"',
+          '"Microsoft YaHei"',
+          'sans-serif',
+        ],
       },
       keyframes: {
         "accordion-down": {
